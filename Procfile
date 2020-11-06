@@ -1,1 +1,1 @@
-web: gunicorn backend.wsgi:aplication --pythonpath app --log-file-
+web: gunicorn backend.wsgi:application --pythonpath app --log-file
